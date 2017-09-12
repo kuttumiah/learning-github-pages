@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HitHub Pages, Learning started"
+title: "GitHub Pages, Learning started"
 date: 2017-09-11
 ---
 
