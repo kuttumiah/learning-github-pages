@@ -1,3 +1,5 @@
 name: Robaiatul Islam, kuttumiah
 markdown: kramdown
-root: /learning-github-pages
+
+baseurl: /learning-github-pages
+url: http://kuttumiah.github.io
