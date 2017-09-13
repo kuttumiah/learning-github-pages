@@ -3,3 +3,5 @@ markdown: kramdown
 
 baseurl: /learning-github-pages
 url: http://kuttumiah.github.io
+
+permalink: /blog/:year/:month/:day/:title
